@@ -1,0 +1,6 @@
+node_modules
+build
+.secret
+.idea
+.infuraKey
+.mnemonic
